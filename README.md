@@ -1,4 +1,4 @@
-# NetStrike: Automated Nmap Scanning and Port Filtering
+# NetStrike: Automated Nmap Scanning and Port Analysis
 
 ## Overview
 
