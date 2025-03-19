@@ -102,6 +102,7 @@ def run_nmap_scan(directory):
                 print(f"{RED}Please sit back and relax while we handle the operations.{RESET}")
                 print(f"{MAGENTA}This may take a moment. Thank you for your patience! 🚀{RESET}")
                 print()
+                print(f"{BLUE}Running on port: {port}{RESET}")
                 subprocess.run(command, shell=True)
                 print()
 
