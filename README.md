@@ -2,7 +2,7 @@
 
 ## Overview
 
-NetStrike is a powerful **network reconnaissance tool** designed for *cybersecurity enthusiasts, security researchers and penetration testers. It automates port scanning, result filtering, and structured reporting, helping security professionals efficiently analyze network exposure and identify potential risks.
+NetStrike is a powerful **network reconnaissance tool** designed for *cybersecurity enthusiasts, security researchers and penetration testers. It automates port scanning, filters results, and generates structured reports, helping security professionals efficiently analyze network exposure and identify potential risks.
 
 ## Requirements
 
