@@ -97,7 +97,7 @@ def run_nmap_scan(directory):
                 filepath = os.path.join(directory, filename)
                 nmap_output_file = f"nmap_{filename[:-4]}.txt"
                 nmap_output_path = os.path.join(nmap_directory, nmap_output_file)
-                command = f"nmap -p{port} -sCV -Pn -iL {filepath} -oN {nmap_output_path}"
+                command = f"nmap -p{port} -sV -Pn -iL {filepath} -oN {nmap_output_path}"
                 print(f"{CYAN}{BOLD}Processing your request...{RESET}")
                 print(f"{RED}Please sit back and relax while we handle the operations.{RESET}")
                 print(f"{MAGENTA}This may take a moment. Thank you for your patience! 🚀{RESET}")
